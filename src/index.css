@@ -458,6 +458,10 @@ background-color: rgba(255, 255, 255, 0.682);
     height: 250px;
     object-fit: contain;
     border-radius: 11px;
+    width: 100%;
+  }
+  .entry-part-img{
+    width: 100%;
   }
   .entry-part-img-contents p{
     font-size: 5px;
@@ -470,7 +474,7 @@ background-color: rgba(255, 255, 255, 0.682);
     position: absolute;
     top: 60%;
     left: 20px;
-    padding-left: 20px;
+    padding-left: 30px;
   }
   .product-view-heading h2{
     font-size: 15px;
