@@ -95,7 +95,8 @@ background-color: rgba(255, 255, 255, 0.682);
 .entry-part-img-contents{
   position: absolute;
   top: 60%;
-  left: 50px;
+  left: 30px;
+  padding-left: 10px;
 }
 .entry-part-img-contents h1{
   font-weight: 600;
@@ -469,7 +470,7 @@ background-color: rgba(255, 255, 255, 0.682);
   .entry-part-img-contents{
     position: absolute;
     top: 60%;
-    left: 30px;
+    left: 50px;
   }
   .product-view-heading h2{
     font-size: 15px;
