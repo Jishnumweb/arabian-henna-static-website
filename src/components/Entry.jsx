@@ -5,7 +5,7 @@ function Entry() {
     <div>
         <div className="entry-part-view">
             <div className="entry-part-img">
-                <img src="https://img.freepik.com/free-photo/close-up-hindu-bride-s-hands-covered-with-henna-tattoos_8353-8859.jpg?t=st=1738215341~exp=1738218941~hmac=03405e6a449f5455a681685c483389042cc045a6e8d52ba70f1fba5402c5eb74&w=996" alt=""/>
+                <img src="images/entry.jpg" alt=""/>
                 <div className="entry-part-img-contents">
                     <h1 className='mb-0'>UNVEIL THE MAGIC OF </h1>
                     <h1>HENNA ART</h1>

@@ -43,7 +43,7 @@ function Services() {
                 </div>
 
                 <div className="col-md-6 service-sec-image">
-                    <img src="./public/seventh.jpg" alt="" className='service-sec-img'/>
+                    <img src="images/seventh.jpg" alt="" className='service-sec-img'/>
                 </div>
             </div>
             

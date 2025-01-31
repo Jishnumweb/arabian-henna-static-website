@@ -5,7 +5,7 @@ function Visit() {
         <div>
             <div className="row">
                 <div className="col-md-6 visit-sec-image">
-                    <img src="./public/firstpic.jpg" alt="" className='visit-sec-img' />
+                    <img src="images/firstpic.jpg" alt="" className='visit-sec-img' />
                 </div>
                 <div className="col-md-6 visit-sec-contents p-0">
                     <h4>Explore Our Art: Stunning Henna Designs in Action</h4>
